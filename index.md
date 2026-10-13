@@ -3,7 +3,7 @@ layout: default
 tags: home
 ---
 
-# Hi there, <br/> I'm Jonathon Belotti.
+# Hi there, <br/> I'm Ethan Kurian.
 
 ### I'm a software engineer with a focus on data & platform engineering.
 
