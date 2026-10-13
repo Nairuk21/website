@@ -1,9 +1,9 @@
 # Site settings
-title: Ethan Kurian
+title: My Site
 author: Ethan Kurian
 description: "No hugs, some learning"
-baseurl: ""
-url: "https://nairuk21.github.io/website/"
+baseurl: "/website"
+url: "https://nairuk21.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
